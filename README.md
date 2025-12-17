@@ -31,12 +31,12 @@ I value:
 
 - **Systems & Low-Level Programming:** C, C++, STL, Boost Libraries, Linux, Win32, Networking, Multithreading & Concurrency
 - **Backend & Enterprise Systems:** C#, .NET Core, ASP.NET, EF Core, SQL, JWT, OAuth
-- **Cloud & DevOps:** AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, ECS, EKS), Docker, Kubernetes, CI/CD
 - **Frontend:** TypeScript, React, Next.js
 - **ML:** Python, NumPy, Pandas, Scikit-learn
 
 ---
 
-📫 [Website](https://www.imariom.com) • [LinkedIn]((https://www.linkedin.com/in/m%C3%A1rio-moiane-5aa424202)) • [Blog]((https://www.imariom.com/blog)) • [Email](mailto:marioallfred@gmail.com)
+📫 [Website](https://www.imariom.com) • [LinkedIn](https://www.linkedin.com/in/m%C3%A1rio-moiane-5aa424202) • [Blog](https://www.imariom.com/blog) • [Email](mailto:marioallfred@gmail.com)
 
 > *Build strong systems first. Apply ML where it actually matters.*
