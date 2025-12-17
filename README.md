@@ -37,6 +37,6 @@ I value:
 
 ---
 
-📫 [Website](https://www.imariom.com) • [LinkedIn]([link](https://www.linkedin.com/in/m%C3%A1rio-moiane-5aa424202)) • [Blog]([link](https://www.imariom.com/blog)) • [Email](mailto:marioallfred@gmail.com)
+📫 [Website](https://www.imariom.com) • [LinkedIn]((https://www.linkedin.com/in/m%C3%A1rio-moiane-5aa424202)) • [Blog]((https://www.imariom.com/blog)) • [Email](mailto:marioallfred@gmail.com)
 
 > *Build strong systems first. Apply ML where it actually matters.*
